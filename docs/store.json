@@ -1,0 +1,802 @@
+[
+  {
+    "id": "1",
+    "name": "Nova iPhone 14 Ultra Fusion",
+    "description": "The Nova iPhone 14 Ultra Fusion is a high-performance iphone 14 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "63945.66",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "2",
+    "name": "Drift Boat Airdopes 141 Mini 360",
+    "description": "The Drift Boat Airdopes 141 Mini 360 is a high-performance boat airdopes 141 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "52050.91",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Other"
+  },
+  {
+    "id": "3",
+    "name": "Lux Puma Flip Flops Mini Prime",
+    "description": "The Lux Puma Flip Flops Mini Prime is a high-performance puma flip flops ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "128822.38",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Footwear"
+  },
+  {
+    "id": "4",
+    "name": "Tronix HP Pavilion 15 Laptop Lite Next",
+    "description": "The Tronix HP Pavilion 15 Laptop Lite Next is a high-performance hp pavilion 15 laptop ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "36605.21",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Laptops"
+  },
+  {
+    "id": "5",
+    "name": "Neon Samsung Galaxy S23 Plus Next",
+    "description": "The Neon Samsung Galaxy S23 Plus Next is a high-performance samsung galaxy s23 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "107717.52",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "6",
+    "name": "Nova Samsung Galaxy S23 Pro 2024",
+    "description": "The Nova Samsung Galaxy S23 Pro 2024 is a high-performance samsung galaxy s23 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "103671.72",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "7",
+    "name": "Omni Puma Flip Flops Pro Fusion",
+    "description": "The Omni Puma Flip Flops Pro Fusion is a high-performance puma flip flops ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "90209.34",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Footwear"
+  },
+  {
+    "id": "8",
+    "name": "Pulse Adidas Running Shoes Max Edge",
+    "description": "The Pulse Adidas Running Shoes Max Edge is a high-performance adidas running shoes ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "12174.25",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Footwear"
+  },
+  {
+    "id": "9",
+    "name": "Nova Sony WH-1000XM5 Headphones Pro Next",
+    "description": "The Nova Sony WH-1000XM5 Headphones Pro Next is a high-performance sony wh-1000xm5 headphones ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "86280.97",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "10",
+    "name": "Pulse HP Pavilion 15 Laptop Lite Prime",
+    "description": "The Pulse HP Pavilion 15 Laptop Lite Prime is a high-performance hp pavilion 15 laptop ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "123443.53",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Laptops"
+  },
+  {
+    "id": "11",
+    "name": "Neon Samsung Galaxy S23 Plus One",
+    "description": "The Neon Samsung Galaxy S23 Plus One is a high-performance samsung galaxy s23 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "22754.71",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "12",
+    "name": "Neon OnePlus 11R Max X",
+    "description": "The Neon OnePlus 11R Max X is a high-performance oneplus 11r ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "126357.81",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "13",
+    "name": "Zenix Boat Airdopes 141 Pro One",
+    "description": "The Zenix Boat Airdopes 141 Pro One is a high-performance boat airdopes 141 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "93758.71",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Other"
+  },
+  {
+    "id": "14",
+    "name": "Echo Samsung Galaxy S23 Mini Edge",
+    "description": "The Echo Samsung Galaxy S23 Mini Edge is a high-performance samsung galaxy s23 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "109224.08",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "15",
+    "name": "Drift HP Pavilion 15 Laptop Air Prime",
+    "description": "The Drift HP Pavilion 15 Laptop Air Prime is a high-performance hp pavilion 15 laptop ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "124812.64",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Laptops"
+  },
+  {
+    "id": "16",
+    "name": "Drift Samsung Galaxy S23 Max 360",
+    "description": "The Drift Samsung Galaxy S23 Max 360 is a high-performance samsung galaxy s23 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "9556.65",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "17",
+    "name": "Tronix iPhone 14 Air Fusion",
+    "description": "The Tronix iPhone 14 Air Fusion is a high-performance iphone 14 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "6222.43",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "18",
+    "name": "Vertex Puma Flip Flops Air 360",
+    "description": "The Vertex Puma Flip Flops Air 360 is a high-performance puma flip flops ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "106921.58",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Footwear"
+  },
+  {
+    "id": "19",
+    "name": "Pulse iPhone 14 Ultra X",
+    "description": "The Pulse iPhone 14 Ultra X is a high-performance iphone 14 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "25475.99",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "20",
+    "name": "Neon Redmi Note 12 Air X",
+    "description": "The Neon Redmi Note 12 Air X is a high-performance redmi note 12 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "120859.56",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Other"
+  },
+  {
+    "id": "21",
+    "name": "Nova Samsung Galaxy S23 Plus Next",
+    "description": "The Nova Samsung Galaxy S23 Plus Next is a high-performance samsung galaxy s23 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "68994.32",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "22",
+    "name": "Vertex Adidas Running Shoes Max Edge",
+    "description": "The Vertex Adidas Running Shoes Max Edge is a high-performance adidas running shoes ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "74994.68",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Footwear"
+  },
+  {
+    "id": "23",
+    "name": "Neon Puma Flip Flops Air 2024",
+    "description": "The Neon Puma Flip Flops Air 2024 is a high-performance puma flip flops ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "119383.62",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Footwear"
+  },
+  {
+    "id": "24",
+    "name": "Zenix HP Pavilion 15 Laptop Air 2024",
+    "description": "The Zenix HP Pavilion 15 Laptop Air 2024 is a high-performance hp pavilion 15 laptop ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "42304.34",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Laptops"
+  },
+  {
+    "id": "25",
+    "name": "Drift Sony WH-1000XM5 Headphones Air X",
+    "description": "The Drift Sony WH-1000XM5 Headphones Air X is a high-performance sony wh-1000xm5 headphones ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "36720.47",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "26",
+    "name": "Pulse Adidas Running Shoes Smart X",
+    "description": "The Pulse Adidas Running Shoes Smart X is a high-performance adidas running shoes ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "70869.1",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Footwear"
+  },
+  {
+    "id": "27",
+    "name": "Vertex Puma Flip Flops Air Next",
+    "description": "The Vertex Puma Flip Flops Air Next is a high-performance puma flip flops ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "100745.44",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Footwear"
+  },
+  {
+    "id": "28",
+    "name": "Lux iPhone 14 Air Edge",
+    "description": "The Lux iPhone 14 Air Edge is a high-performance iphone 14 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "127891.39",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "29",
+    "name": "Zenix OnePlus 11R Max Fusion",
+    "description": "The Zenix OnePlus 11R Max Fusion is a high-performance oneplus 11r ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "81287.41",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "30",
+    "name": "Neon Samsung Galaxy S23 Air Prime",
+    "description": "The Neon Samsung Galaxy S23 Air Prime is a high-performance samsung galaxy s23 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "116651.55",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "31",
+    "name": "Omni Sony WH-1000XM5 Headphones Air X",
+    "description": "The Omni Sony WH-1000XM5 Headphones Air X is a high-performance sony wh-1000xm5 headphones ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "148792.55",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "32",
+    "name": "Neon OnePlus 11R Air One",
+    "description": "The Neon OnePlus 11R Air One is a high-performance oneplus 11r ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "88401.11",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "33",
+    "name": "Tronix Adidas Running Shoes Lite 2024",
+    "description": "The Tronix Adidas Running Shoes Lite 2024 is a high-performance adidas running shoes ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "94839.46",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Footwear"
+  },
+  {
+    "id": "34",
+    "name": "Echo Puma Flip Flops Eco Next",
+    "description": "The Echo Puma Flip Flops Eco Next is a high-performance puma flip flops ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "114895.59",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Footwear"
+  },
+  {
+    "id": "35",
+    "name": "Lux OnePlus 11R Smart Prime",
+    "description": "The Lux OnePlus 11R Smart Prime is a high-performance oneplus 11r ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "37548.36",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "36",
+    "name": "Lux HP Pavilion 15 Laptop Plus One",
+    "description": "The Lux HP Pavilion 15 Laptop Plus One is a high-performance hp pavilion 15 laptop ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "99994.84",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Laptops"
+  },
+  {
+    "id": "37",
+    "name": "Omni HP Pavilion 15 Laptop Max X",
+    "description": "The Omni HP Pavilion 15 Laptop Max X is a high-performance hp pavilion 15 laptop ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "50297.03",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Laptops"
+  },
+  {
+    "id": "38",
+    "name": "Zenix HP Pavilion 15 Laptop Eco Next",
+    "description": "The Zenix HP Pavilion 15 Laptop Eco Next is a high-performance hp pavilion 15 laptop ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "21275.95",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Laptops"
+  },
+  {
+    "id": "39",
+    "name": "Echo Apple MacBook Air M2 Max One",
+    "description": "The Echo Apple MacBook Air M2 Max One is a high-performance apple macbook air m2 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "54742.06",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Laptops"
+  },
+  {
+    "id": "40",
+    "name": "Neon Redmi Note 12 Smart Fusion",
+    "description": "The Neon Redmi Note 12 Smart Fusion is a high-performance redmi note 12 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "115750.04",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Other"
+  },
+  {
+    "id": "41",
+    "name": "Nova Samsung Galaxy S23 Lite 2024",
+    "description": "The Nova Samsung Galaxy S23 Lite 2024 is a high-performance samsung galaxy s23 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "72025.72",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "42",
+    "name": "Echo Redmi Note 12 Eco 360",
+    "description": "The Echo Redmi Note 12 Eco 360 is a high-performance redmi note 12 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "45096.78",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Other"
+  },
+  {
+    "id": "43",
+    "name": "Zenix Samsung Galaxy S23 Pro 360",
+    "description": "The Zenix Samsung Galaxy S23 Pro 360 is a high-performance samsung galaxy s23 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "68869.04",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "44",
+    "name": "Omni OnePlus 11R Max X",
+    "description": "The Omni OnePlus 11R Max X is a high-performance oneplus 11r ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "91910.93",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "45",
+    "name": "Drift Puma Flip Flops Plus Fusion",
+    "description": "The Drift Puma Flip Flops Plus Fusion is a high-performance puma flip flops ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "109641.92",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Footwear"
+  },
+  {
+    "id": "46",
+    "name": "Lux Sony WH-1000XM5 Headphones Lite 2024",
+    "description": "The Lux Sony WH-1000XM5 Headphones Lite 2024 is a high-performance sony wh-1000xm5 headphones ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "141366.59",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "47",
+    "name": "Neon HP Pavilion 15 Laptop Max Prime",
+    "description": "The Neon HP Pavilion 15 Laptop Max Prime is a high-performance hp pavilion 15 laptop ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "44553.32",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Laptops"
+  },
+  {
+    "id": "48",
+    "name": "Nova iPhone 14 Plus Prime",
+    "description": "The Nova iPhone 14 Plus Prime is a high-performance iphone 14 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "90922.07",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "49",
+    "name": "Nova HP Pavilion 15 Laptop Mini One",
+    "description": "The Nova HP Pavilion 15 Laptop Mini One is a high-performance hp pavilion 15 laptop ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "81231.78",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Laptops"
+  },
+  {
+    "id": "50",
+    "name": "Zenix HP Pavilion 15 Laptop Pro 360",
+    "description": "The Zenix HP Pavilion 15 Laptop Pro 360 is a high-performance hp pavilion 15 laptop ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "127218.82",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Laptops"
+  },
+  {
+    "id": "51",
+    "name": "Lux Redmi Note 12 Plus Prime",
+    "description": "The Lux Redmi Note 12 Plus Prime is a high-performance redmi note 12 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "109333.77",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Other"
+  },
+  {
+    "id": "52",
+    "name": "Echo OnePlus 11R Max 2024",
+    "description": "The Echo OnePlus 11R Max 2024 is a high-performance oneplus 11r ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "33356.62",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "53",
+    "name": "Tronix Adidas Running Shoes Plus X",
+    "description": "The Tronix Adidas Running Shoes Plus X is a high-performance adidas running shoes ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "104141.15",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Footwear"
+  },
+  {
+    "id": "54",
+    "name": "Omni OnePlus 11R Eco 360",
+    "description": "The Omni OnePlus 11R Eco 360 is a high-performance oneplus 11r ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "38785.86",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "55",
+    "name": "Vertex iPhone 14 Plus Fusion",
+    "description": "The Vertex iPhone 14 Plus Fusion is a high-performance iphone 14 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "17680.51",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "56",
+    "name": "Neon Samsung Galaxy S23 Pro 2024",
+    "description": "The Neon Samsung Galaxy S23 Pro 2024 is a high-performance samsung galaxy s23 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "112820.87",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "57",
+    "name": "Echo Sony WH-1000XM5 Headphones Ultra 360",
+    "description": "The Echo Sony WH-1000XM5 Headphones Ultra 360 is a high-performance sony wh-1000xm5 headphones ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "80489.7",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "58",
+    "name": "Pulse Adidas Running Shoes Max 360",
+    "description": "The Pulse Adidas Running Shoes Max 360 is a high-performance adidas running shoes ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "65332.31",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Footwear"
+  },
+  {
+    "id": "59",
+    "name": "Omni iPhone 14 Mini One",
+    "description": "The Omni iPhone 14 Mini One is a high-performance iphone 14 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "112237.18",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "60",
+    "name": "Tronix Adidas Running Shoes Smart Edge",
+    "description": "The Tronix Adidas Running Shoes Smart Edge is a high-performance adidas running shoes ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "148919.77",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Footwear"
+  },
+  {
+    "id": "61",
+    "name": "Echo Apple MacBook Air M2 Eco Prime",
+    "description": "The Echo Apple MacBook Air M2 Eco Prime is a high-performance apple macbook air m2 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "106244.53",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Laptops"
+  },
+  {
+    "id": "62",
+    "name": "Drift Puma Flip Flops Mini Prime",
+    "description": "The Drift Puma Flip Flops Mini Prime is a high-performance puma flip flops ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "84768.48",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Footwear"
+  },
+  {
+    "id": "63",
+    "name": "Lux Samsung Galaxy S23 Air Edge",
+    "description": "The Lux Samsung Galaxy S23 Air Edge is a high-performance samsung galaxy s23 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "40258.96",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "64",
+    "name": "Vertex Samsung Galaxy S23 Pro One",
+    "description": "The Vertex Samsung Galaxy S23 Pro One is a high-performance samsung galaxy s23 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "113055.34",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "65",
+    "name": "Vertex HP Pavilion 15 Laptop Smart 360",
+    "description": "The Vertex HP Pavilion 15 Laptop Smart 360 is a high-performance hp pavilion 15 laptop ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "40998.56",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Laptops"
+  },
+  {
+    "id": "66",
+    "name": "Echo Adidas Running Shoes Mini Next",
+    "description": "The Echo Adidas Running Shoes Mini Next is a high-performance adidas running shoes ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "83075.54",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Footwear"
+  },
+  {
+    "id": "67",
+    "name": "Zenix Samsung Galaxy S23 Smart Fusion",
+    "description": "The Zenix Samsung Galaxy S23 Smart Fusion is a high-performance samsung galaxy s23 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "43159.56",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "68",
+    "name": "Lux Samsung Galaxy S23 Pro X",
+    "description": "The Lux Samsung Galaxy S23 Pro X is a high-performance samsung galaxy s23 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "26913.03",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "69",
+    "name": "Nova HP Pavilion 15 Laptop Mini Edge",
+    "description": "The Nova HP Pavilion 15 Laptop Mini Edge is a high-performance hp pavilion 15 laptop ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "96821.32",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Laptops"
+  },
+  {
+    "id": "70",
+    "name": "Lux Samsung Galaxy S23 Air Edge",
+    "description": "The Lux Samsung Galaxy S23 Air Edge is a high-performance samsung galaxy s23 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "112829.45",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "71",
+    "name": "Echo Adidas Running Shoes Max 2024",
+    "description": "The Echo Adidas Running Shoes Max 2024 is a high-performance adidas running shoes ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "32139.93",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Footwear"
+  },
+  {
+    "id": "72",
+    "name": "Echo Adidas Running Shoes Eco Fusion",
+    "description": "The Echo Adidas Running Shoes Eco Fusion is a high-performance adidas running shoes ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "121252.24",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Footwear"
+  },
+  {
+    "id": "73",
+    "name": "Echo Samsung Galaxy S23 Plus Next",
+    "description": "The Echo Samsung Galaxy S23 Plus Next is a high-performance samsung galaxy s23 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "67709.52",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "74",
+    "name": "Drift OnePlus 11R Plus 2024",
+    "description": "The Drift OnePlus 11R Plus 2024 is a high-performance oneplus 11r ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "81405.49",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "75",
+    "name": "Tronix OnePlus 11R Mini Next",
+    "description": "The Tronix OnePlus 11R Mini Next is a high-performance oneplus 11r ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "26199.15",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "76",
+    "name": "Tronix Samsung Galaxy S23 Max Fusion",
+    "description": "The Tronix Samsung Galaxy S23 Max Fusion is a high-performance samsung galaxy s23 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "95943.09",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "77",
+    "name": "Lux iPhone 14 Plus 360",
+    "description": "The Lux iPhone 14 Plus 360 is a high-performance iphone 14 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "16078.29",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "78",
+    "name": "Echo Adidas Running Shoes Eco Prime",
+    "description": "The Echo Adidas Running Shoes Eco Prime is a high-performance adidas running shoes ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "53556.3",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Footwear"
+  },
+  {
+    "id": "79",
+    "name": "Pulse OnePlus 11R Pro 2024",
+    "description": "The Pulse OnePlus 11R Pro 2024 is a high-performance oneplus 11r ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "116626.62",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "80",
+    "name": "Neon Samsung Galaxy S23 Lite Next",
+    "description": "The Neon Samsung Galaxy S23 Lite Next is a high-performance samsung galaxy s23 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "72267.96",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "81",
+    "name": "Tronix Redmi Note 12 Eco Prime",
+    "description": "The Tronix Redmi Note 12 Eco Prime is a high-performance redmi note 12 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "4846.24",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Other"
+  },
+  {
+    "id": "82",
+    "name": "Neon Sony WH-1000XM5 Headphones Plus 360",
+    "description": "The Neon Sony WH-1000XM5 Headphones Plus 360 is a high-performance sony wh-1000xm5 headphones ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "132027.09",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "83",
+    "name": "Echo Apple MacBook Air M2 Plus Next",
+    "description": "The Echo Apple MacBook Air M2 Plus Next is a high-performance apple macbook air m2 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "65610.2",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Laptops"
+  },
+  {
+    "id": "84",
+    "name": "Neon Adidas Running Shoes Air Next",
+    "description": "The Neon Adidas Running Shoes Air Next is a high-performance adidas running shoes ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "104873.36",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Footwear"
+  },
+  {
+    "id": "85",
+    "name": "Nova Apple MacBook Air M2 Mini Prime",
+    "description": "The Nova Apple MacBook Air M2 Mini Prime is a high-performance apple macbook air m2 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "86318.45",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Laptops"
+  },
+  {
+    "id": "86",
+    "name": "Neon Apple MacBook Air M2 Mini 2024",
+    "description": "The Neon Apple MacBook Air M2 Mini 2024 is a high-performance apple macbook air m2 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "31495.52",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Laptops"
+  },
+  {
+    "id": "87",
+    "name": "Pulse Sony WH-1000XM5 Headphones Eco Prime",
+    "description": "The Pulse Sony WH-1000XM5 Headphones Eco Prime is a high-performance sony wh-1000xm5 headphones ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "140076.27",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "88",
+    "name": "Vertex Samsung Galaxy S23 Lite Fusion",
+    "description": "The Vertex Samsung Galaxy S23 Lite Fusion is a high-performance samsung galaxy s23 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "133183.43",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "89",
+    "name": "Pulse HP Pavilion 15 Laptop Eco Edge",
+    "description": "The Pulse HP Pavilion 15 Laptop Eco Edge is a high-performance hp pavilion 15 laptop ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "1554.22",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Laptops"
+  },
+  {
+    "id": "90",
+    "name": "Pulse Sony WH-1000XM5 Headphones Mini Edge",
+    "description": "The Pulse Sony WH-1000XM5 Headphones Mini Edge is a high-performance sony wh-1000xm5 headphones ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "4213.94",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "91",
+    "name": "Vertex Boat Airdopes 141 Smart Edge",
+    "description": "The Vertex Boat Airdopes 141 Smart Edge is a high-performance boat airdopes 141 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "144591.49",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Other"
+  },
+  {
+    "id": "92",
+    "name": "Pulse Sony WH-1000XM5 Headphones Pro X",
+    "description": "The Pulse Sony WH-1000XM5 Headphones Pro X is a high-performance sony wh-1000xm5 headphones ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "110079.02",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "93",
+    "name": "Pulse Samsung Galaxy S23 Ultra Edge",
+    "description": "The Pulse Samsung Galaxy S23 Ultra Edge is a high-performance samsung galaxy s23 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "64529.58",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  },
+  {
+    "id": "94",
+    "name": "Lux Redmi Note 12 Pro X",
+    "description": "The Lux Redmi Note 12 Pro X is a high-performance redmi note 12 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "59482.21",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Other"
+  },
+  {
+    "id": "95",
+    "name": "Omni Redmi Note 12 Mini 2024",
+    "description": "The Omni Redmi Note 12 Mini 2024 is a high-performance redmi note 12 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "137446.7",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Other"
+  },
+  {
+    "id": "96",
+    "name": "Omni Boat Airdopes 141 Smart 360",
+    "description": "The Omni Boat Airdopes 141 Smart 360 is a high-performance boat airdopes 141 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "50946.53",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Other"
+  },
+  {
+    "id": "97",
+    "name": "Omni Boat Airdopes 141 Max One",
+    "description": "The Omni Boat Airdopes 141 Max One is a high-performance boat airdopes 141 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "134032.1",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Other"
+  },
+  {
+    "id": "98",
+    "name": "Drift Puma Flip Flops Lite Edge",
+    "description": "The Drift Puma Flip Flops Lite Edge is a high-performance puma flip flops ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "16078.93",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Footwear"
+  },
+  {
+    "id": "99",
+    "name": "Vertex Boat Airdopes 141 Max X",
+    "description": "The Vertex Boat Airdopes 141 Max X is a high-performance boat airdopes 141 ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "31795.41",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Other"
+  },
+  {
+    "id": "100",
+    "name": "Pulse OnePlus 11R Pro X",
+    "description": "The Pulse OnePlus 11R Pro X is a high-performance oneplus 11r ideal for daily use, featuring sleek design, durability, and cutting-edge features.",
+    "price": "146068.21",
+    "image_url": "https://dummyimage.com/300x300/cccccc/000000.png&text=Product+Image",
+    "category": "Smartphones"
+  }
+]
